@@ -15,3 +15,8 @@ this application does the following and have the follwing features:
 ->Preserves keystrokes between sessions using a local file keystrokes.txt
 
 ->Clears both the display and the file using clear button.
+
+# how to run this app?
+
+step -1 : clone this repo
+step -2 : In dist folder , there is executable file just open it to run the app
